@@ -8,4 +8,4 @@
 ## Dependencies: QuietNPC_Core
 
 
-QuietNPC_Brewfest.lua
+QuietNPC_WorldEvents.lua
