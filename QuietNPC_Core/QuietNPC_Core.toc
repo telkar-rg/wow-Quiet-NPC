@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Quiet NPC: |cFF8080ffCore|r (001)
+## Notes: Core Module
+## Author: Telkar@RG
+
+
+QuietNPC_Core.lua
