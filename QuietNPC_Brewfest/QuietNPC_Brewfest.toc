@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Quiet NPC: |cffFFFF80Brewfest|r (001)
+## Title-deDE: Quiet NPC: |cffFFFF80Braufest|r (001)
+## Notes: Mutes NPCs in CHat: Brewfest
+## Notes-deDE: Verstummt NPCs im Chat: Braufest
+## Version: 30300
+## Author: Telkar@RG
+## Dependencies: QuietNPC_Core
+
+
+QuietNPC_Brewfest.lua
