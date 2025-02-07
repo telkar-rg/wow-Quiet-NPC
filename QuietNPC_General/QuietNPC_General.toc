@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Quiet NPC: |cffFF8080General|r (001)
+## Title-deDE: Quiet NPC: |cffFF8080Allgemein|r (001)
+## Notes: Mutes NPCs in Chat: General (Mounts, Pets)
+## Notes-deDE: Verstummt NPCs im Chat: Allgemein (Mounts, Pets)
+## Version: 30300
+## Author: Telkar@RG
+## Dependencies: QuietNPC_Core
+
+
+QuietNPC_General.lua
