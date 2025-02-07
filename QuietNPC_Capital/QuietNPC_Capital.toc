@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Quiet NPC: |cffFF8080Capital city|r (001)
+## Title-deDE: Quiet NPC: |cffFF8080Hauptstadt|r (001)
+## Notes: Mutes NPCs in Chat: Capital city
+## Notes-deDE: Verstummt NPCs im Chat: Hauptstadt
+## Version: 30300
+## Author: Telkar@RG
+## Dependencies: QuietNPC_Core
+
+
+QuietNPC_Capital.lua
